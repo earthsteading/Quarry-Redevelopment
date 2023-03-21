@@ -1,4 +1,4 @@
-# quarry-redevelopment
+# Quarry-Redevelopment
 Redeveloping abandoned quarries into useable structures and spaces
 
 ## Examples
