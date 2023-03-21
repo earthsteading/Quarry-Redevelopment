@@ -1,6 +1,12 @@
 # Quarry-Redevelopment
 Redeveloping abandoned quarries into useable structures and spaces
 
+## Definitions, standards and legislation
+Quarry redevelopment in Australia is primarily dictated by the mining industry:
+  - [ ] AS 3007 Electrical equipment in mines and quarries-surface installations and assocated processing plant
+  - [ ] 
+  
+
 ## Examples
   - [ ] BioDome in UK
   - [ ] Rocky Mountains Colorado (RedRocks?)
